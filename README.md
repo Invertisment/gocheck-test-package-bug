@@ -46,4 +46,5 @@ ok  	_____/double-test/one_package	0.009s
 === RUN   TestTwoInOneTestPackage
 --- PASS: TestTwoInOneTestPackage (0.00s)
 PASS
-ok  	_____/double-test/two_packages_one_folder	0.001s```
+ok  	_____/double-test/two_packages_one_folder	0.001s
+```
