@@ -6,11 +6,7 @@ import (
 	. "gopkg.in/check.v1"
 )
 
-type TestPackageSuite struct {
-}
-
-// Hook up gocheck into the "go test" runner.
-func Test(t *testing.T) { TestingT(t) }
+type TestPackageSuite struct {}
 
 func init() {
 	Suite(&TestPackageSuite{})
